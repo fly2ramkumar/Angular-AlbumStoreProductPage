@@ -9,7 +9,7 @@ import { Album } from '../album';
 })
 export class ProductTracklistingComponent implements OnInit {
 
-  private albumInfo:Album;
+  albumInfo:Album;
 
   constructor(private _productService: ProductService) { }
 
