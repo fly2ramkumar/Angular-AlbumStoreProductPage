@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { ProductService } from '../product.service';
 import { Response } from '@angular/http';
-import { Album } from 'app/album';
+import { Album } from '../album';
 
 
 
